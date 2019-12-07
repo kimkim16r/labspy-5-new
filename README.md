@@ -20,6 +20,7 @@
 </br> 6. Dan selanjutnya untuk menampilkan daftar data yang sudah kita inputkan,  disini saya menggunakan printah "for x in data. items ()" maka secara otomatis data yang ada dalam program akan di tampilkan. 
 </br>
 </br> Flowchart >>
-</br>
+</br>![IMG_20191207_205137](https://user-images.githubusercontent.com/57000408/70375710-9f9b4100-1933-11ea-95f2-e8c57246c59a.JPG)
+
 </br> TERIMA KASIH. 
 </br>
