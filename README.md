@@ -15,7 +15,7 @@
 </br> 4. Menu delete dengan kim=lower()="d" , untuk menghapus data yang sudah tersimpan di program,  dengan memanggil kembali list "data [nim]", dengan "nim =input(nim :)" ,makan program akan menghapus data dengan nim yang sesuai kita inputkan.
 </br>
 </br> 5. Kemudian untuk mencari sebuah data, disini saya menggunakan printah "kim. lower='s' "
-</br>
+</br>![Screenshot (49)](https://user-images.githubusercontent.com/57000408/70374319-71ae0080-1923-11ea-8035-0e47f16878e0.png)
 </br> 6. Dan selanjutnya untuk menampilkan daftar data yang sudah kita inputkan,  disini saya menggunakan printah "for x in data. items ()" maka secara otomatis data yang ada dalam program akan di tampilkan. 
 </br>
 </br> Flowchart >>
