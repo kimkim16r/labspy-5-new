@@ -9,7 +9,8 @@
 </br>![Screenshot (47)](https://user-images.githubusercontent.com/57000408/70374209-d0bf4580-1922-11ea-95fe-7730e99ea717.png)
 
 </br> 2. Buat perintah "elif kim.lower ()= 'a': (add) untuk membuat data siswa seperti nama, nim, nila tugas, nilai uts, nila uas. Dengan data [nim] //sebagai list dari  = nama,nila tugas, nilai uts, nila uas dan nilai akhir.
-</br>
+</br>![Screenshot (48)](https://user-images.githubusercontent.com/57000408/70374234-0bc17900-1923-11ea-8dbd-e49f818d30ff.png)
+
 </br> 3. Selanjutnya disini saya membuat menu Edit,dengan "kim.lower()= "e". Untuk mengedit/mengubah data yang sudah tersimpan dalam program. Untuk memmudahkan dalam percarain data disini saya menggunakan perintah "nim=input(Nim:  ) dari list yang sudah kita buat. Selanjutnya masukan pembaharuan seperti nama, nilai tugas, nilai uts, nilai uas,.       
 </br>
 </br> 4. Menu delete dengan kim=lower()="d" , untuk menghapus data yang sudah tersimpan di program,  dengan memanggil kembali list "data [nim]", dengan "nim =input(nim :)" ,makan program akan menghapus data dengan nim yang sesuai kita inputkan.
